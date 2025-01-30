@@ -1,0 +1,9 @@
+{
+    "go.delveConfig": {
+        "dlvToolPath": "/home/matteo/go/bin/dlv"
+    },
+    "go.gopath": "/home/matteo/go",
+    "go.toolsGopath": "/home/matteo/go",
+    "go.useLanguageServer": true,
+    "go.languageServerFlags": ["-rpc.trace"]
+}
